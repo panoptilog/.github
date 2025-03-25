@@ -22,10 +22,11 @@ interested in it to gain leverage over their adversaries.
 
 What if we retained such logs on ourselves? A near-complete record of our own
 digital trail: one that can be indexed and searched *privately* for our own
-personal discovery and enrichment. There is an assymmetry in capabilities
-between individuals and service providers. Panoptilog seeks to remedy this
-gap. If leaving a digital footprint is inevitable, then individuals should
-have equal ability to journal and draw insights from their own data.
+personal discovery and enrichment. There is an assymmetry in data analysis
+capabilities between individuals and service providers. Panoptilog seeks to
+lessen this gap. If leaving digital footprints is inevitable, then individuals
+should at least have equal ability to journal and draw insights from their own
+data.
 
 All Panoptilog software are [copyleft](https://en.wikipedia.org/wiki/Copyleft)
 licensed and freely modifiable.
