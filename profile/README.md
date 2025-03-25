@@ -1,4 +1,4 @@
-# What is panoptilog?
+# What is Panoptilog?
 
 Panoptilog is a portmanteau of [panopticon](https://en.wikipedia.org/wiki/Panopticon)
 and [log](https://en.wikipedia.org/wiki/Logging_(computing)). It was inspired
